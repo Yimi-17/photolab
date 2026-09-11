@@ -1,0 +1,6 @@
+{
+  "name": "PhotoLab",
+  "description": "Una aplicación web interactiva para subir y editar fotografías en tiempo real con filtros y ajustes básicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
